@@ -1,4 +1,3 @@
 fn main() {
-    printint("Welcome to COS 101")
+    println!("Welcome to COS 101");
 }
-
