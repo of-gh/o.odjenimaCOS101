@@ -1,5 +1,0 @@
-read.csv("C:\Users\ofegh\OneDrive\Documents\DataSheet.csv") 
-view ("DataSheet")
-read.csv ('DataSheet.csv')
-head(DataSheet)
-summary (DataSheet)
